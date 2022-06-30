@@ -1,5 +1,5 @@
 # Alura-Geek-e-commerce
-E-Commerce
+Desafio da trilha frontend do curso de programação da Alura 
 <hr>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
