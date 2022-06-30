@@ -7,7 +7,7 @@ E-Commerce
 
 <div> 
 <h1 align="center"> 
-    <img src="" alt="Marvel" width="400">
+    <img src="img/Logo.png" alt="Alura Geek Commerce" width="400">
 </h1>
 </div>
 A empresa AluraGeek está precisando trazer mais clientes e aumentar suas vendas, para isso desejam implementar um e-commerce e levar a empresa ao próximo patamar, se tornar mais digital.
@@ -22,7 +22,7 @@ Para isso eles estão solicitando a nossa ajuda como desenvolvedores para criar 
 É muito importante que o site seja responsivo para dar aos clientes a facilidade de comprar através de dispositivos mobiles.
 
 <div>
-<img src="">
+<img src="img/Geek_Alura.jpeg">
 </div>
 <div align="justify">    
 
