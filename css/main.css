@@ -1,3 +1,22 @@
-h1 {
-    color: blue;
+
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.botao {
+    display: flex;
+    align-items: center;
+    justify-content: right;    
+}
+
+.banner {
+    width: 100%;
+}
+
+.starwars {
+    display: flex;
+    
 }
